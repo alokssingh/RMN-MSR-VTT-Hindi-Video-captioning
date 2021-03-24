@@ -35,5 +35,5 @@ python evaluate.py --dataset=msr-vtt --model=RMN --result_dir=results/msr-vtt_mo
 ```
 ## Acknowledgements
 1. [Learning to Discretely Compose Reasoning Module Networks for Video Captioning](https://arxiv.org/abs/2007.09049)
-2. [tgc1997]((https://github.com/tgc1997/RMN))
+2. [tgc1997](https://github.com/tgc1997/RMN)
 3. [alokssingh](https://github.com/alokssingh/MSR-VTT-captioning)
