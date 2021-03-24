@@ -24,6 +24,12 @@ python train.py --dataset=msr-vtt --model=RMN --result_dir=results/msr-vtt_model
  --use_loc --use_rel --use_func --use_multi_gpu --learning_rate=1e-4 --attention=gumbel \
  --hidden_size=1300 --att_size=1024 --train_batch_size=32 --test_batch_size=8
 ```
+## Evaluation command example:
+```python
+python evaluate.py --dataset=msr-vtt --model=RMN --result_dir=results/msr-vtt_model \
+ --use_loc --use_rel --use_func --hidden_size=1300 --att_size=1024 \
+ --test_batch_size=2 --beam_size=2 --eval_metric=CIDEr
+```
 ## Acknowledgements
 1. [Learning to Discretely Compose Reasoning Module Networks for Video Captioning](https://arxiv.org/abs/2007.09049)
 2. [tgc1997]((https://github.com/tgc1997/RMN))
