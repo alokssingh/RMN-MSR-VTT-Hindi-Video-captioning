@@ -17,7 +17,7 @@ This implementation of [RNM](https://arxiv.org/abs/2007.09049) is used as a base
 * CUDA 10.1
 
 
-1. Download visual features from [MSR-VTT](https://rec.ustc.edu.cn/share/26685ac0-ba08-11ea-866f-6fc664dfaa3b) and text features from [MSR-VTT-Hindi-text](https://drive.google.com/drive/folders/1E4a5u2sge7JVkKnEu_28DHMsBVL8w6MO?usp=sharing) and put them in `data` folder.
+1. Download visual features from [MSR-VTT](https://rec.ustc.edu.cn/share/26685ac0-ba08-11ea-866f-6fc664dfaa3b) and text features from [MSR-VTT-Hindi-text](https://drive.google.com/drive/folders/1L3fylhdc5FAV-kyJsQDhB7oN0yYRxSxc?usp=sharing) and put them in `data` folder.
 2. Download evauation tool from [caption-eval](https://github.com/tgc1997/RMN)
 3. POS tags for Hindi text are generated using [Stanford POS tagger](https://nlp.stanford.edu/software/tagger.shtml)
 ## Training command example:
