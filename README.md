@@ -6,14 +6,15 @@ This code is the Pytorch implementation of RNM forked from [tgc1997](https://git
 This implementation of [RNM](https://arxiv.org/abs/2007.09049) is used as a baseline model.
 
 ## Dependencies
-* Python 3.7 (other versions may also work)
-* Pytorch 1.1.0 (other versions may also work)
+* Python 3.7.3 (other versions may also work)
+* Pytorch 1.4.0 (other versions may also work)
 * pickle
 * tqdm
 * h5py
 * matplotlib
 * numpy
 * tensorboard_logger
+* CUDA 10.1
 
 
 1. Download visual features from [MSR-VTT](https://rec.ustc.edu.cn/share/26685ac0-ba08-11ea-866f-6fc664dfaa3b) and text features from [MSR-VTT-Hindi-text](https://drive.google.com/drive/folders/1E4a5u2sge7JVkKnEu_28DHMsBVL8w6MO?usp=sharing) and put them in `data` folder.
