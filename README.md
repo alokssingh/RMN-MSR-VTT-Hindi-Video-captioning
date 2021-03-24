@@ -18,7 +18,7 @@ Download visual features from [MSR-VTT](https://rec.ustc.edu.cn/share/26685ac0-b
 
 Download evauation tool from [caption-eval](https://github.com/tgc1997/RMN)
 
-## Acknowledgement
+## Acknowledgements
 1. [Learning to Discretely Compose Reasoning Module Networks for Video Captioning](https://arxiv.org/abs/2007.09049)
 2. [tgc1997]((https://github.com/tgc1997/RMN))
 3. [alokssingh](https://github.com/alokssingh/MSR-VTT-captioning)
