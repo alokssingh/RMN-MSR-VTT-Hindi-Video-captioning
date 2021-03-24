@@ -14,6 +14,9 @@ This code is the Pytorch implementation of RNM is forked from [tgc1997](https://
 * tensorboard_logger
 
 
+Download visual features from [MSR-VTT](https://rec.ustc.edu.cn/share/26685ac0-ba08-11ea-866f-6fc664dfaa3b) and text features from [MSR-VTT-Hindi-text](https://drive.google.com/drive/folders/1E4a5u2sge7JVkKnEu_28DHMsBVL8w6MO?usp=sharing) and put them in `data` folder.
+
+
 
 ## Acknowledgement
 1. [Learning to Discretely Compose Reasoning Module Networks for Video Captioning](https://arxiv.org/abs/2007.09049)
