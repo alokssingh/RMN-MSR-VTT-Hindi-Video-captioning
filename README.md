@@ -2,7 +2,7 @@
 
 # Learning to Discretely Compose Reasoning Module Networks for Video Captioning (IJCAI2020)
 ## Introduction
-This code is the Pytorch implementation of RNM forked from [tgc1997](https://github.com/tgc1997/RMN) and the data Hindi MSR-VTT dataset is created by [alokssingh](https://github.com/alokssingh/MSR-VTT-captioning)
+This code is the Pytorch implementation of RNM forked from [tgc1997](https://github.com/tgc1997/RMN) and the data Hindi MSR-VTT dataset is created by [alokssingh](https://github.com/alokssingh/MSR-VTT-captioning). Some changes in the iplementation of the code are made for the compatiablity with Hindi text. 
 ## Dependencies
 * Python 3.7 (other versions may also work)
 * Pytorch 1.1.0 (other versions may also work)
