@@ -35,6 +35,6 @@ python evaluate.py --dataset=msr-vtt --model=RMN --result_dir=results/msr-vtt_mo
 NOTE: For METEOR score we have used [meteor_indic](https://github.com/anoopkunchukuttan/meteor_indic) and [indic_tokenizer](https://anoopkunchukuttan.github.io/indic_nlp_library/) for tokenization
 ## Acknowledgements
 1. [Learning to Discretely Compose Reasoning Module Networks for Video Captioning](https://arxiv.org/abs/2007.09049)
-2.  [Attention based video captioning framework for Hindi](https://link.springer.com/article/10.1007/s00530-021-00816-3)
+2. [Attention based video captioning framework for Hindi](https://link.springer.com/article/10.1007/s00530-021-00816-3)
 3. [alokssingh](https://github.com/alokssingh/MSR-VTT-captioning)
 4. [tgc1997](https://github.com/tgc1997/RMN)
