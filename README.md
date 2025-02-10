@@ -1,6 +1,6 @@
 # RMN_MSR-VTT-Hindi-VC
 
-# Learning to Discretely Compose Reasoning Module Networks for Video Captioning (IJCAI2020)
+
 ## Introduction
 This code is the Pytorch implementation of RNM [tgc1997](https://github.com/tgc1997/RMN) and the Hindi MSR-VTT dataset is created by [alokssingh](https://github.com/alokssingh/MSR-VTT-captioning). Modification in the original code are made for the compatiablity with Hindi text. 
 This implementation of [RMN](https://arxiv.org/abs/2007.09049) is used as a baseline model.
